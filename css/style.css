@@ -176,6 +176,14 @@ nav {
   float: left;
 }
 
+#main_content {
+  text-align: justify;
+  width: 644px;
+  padding: 0 0 5px 30px;
+  margin: 0;
+  float: left;
+}
+
 #content ul {
   margin: 2px 0 5px 0px;
 }
